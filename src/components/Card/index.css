@@ -1,0 +1,40 @@
+.card{
+    margin:8px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.car-image{
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+}
+strong{
+
+}
+.card-text{
+    padding: 10px 0;
+}
+.card-title{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    color: darkblue;
+    font-size: 24px;
+    text-align: left;
+    border-bottom: 1px dashed black;
+}
+.card-car{
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.card-year{
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+.conditional{
+    margin-top: 10px;
+    text-align: right;
+    padding-right: 10px;
+    color:rgb(58, 57, 57);
+}

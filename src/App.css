@@ -1,0 +1,13 @@
+#root{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.cars-title{
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+    font-size: 60px;
+    color:darkblue;
+    width: 100%;
+}
